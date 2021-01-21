@@ -1,6 +1,6 @@
 # Data-Collection-Preparation
 Task 1: Data identification:
-Following open API is choosed for data analysis:
+Following open API is used for data analysis:
 
   1.  https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation
 
